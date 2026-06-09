@@ -1,0 +1,10 @@
+# Ignore raw image directories and archive zips
+sample_images_dir/
+sample.zip
+Data_Entry_2017.csv
+
+# Ignore local runtime databases and cache
+nih_medical_rag_db/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
