@@ -46,3 +46,10 @@ Clinical Reference Grounding:
 ⚠️ CRITICAL SYSTEM DISCLAIMER:
 This system is an assistive decision support software layer designed for prioritization and clinical screening support. It does NOT provide a definitive medical diagnosis. Final image interpretation and diagnostic confirmation must be performed exclusively by a qualified radiologist.
 ```
+## Here is the screenshot of the RAG portal:
+<img width="927" height="436" alt="NIH_API Deployment layer" src="https://github.com/user-attachments/assets/5d10bc48-9a02-4c3c-a414-86d95a6031d2" />
+
+
+## Below is the screenshot of the response after uploading a chest xray image:
+<img width="890" height="468" alt="portal_demo jpg" src="https://github.com/user-attachments/assets/3105f1d3-e267-4a5c-adf0-1e4c1959053f" />
+
